@@ -17,8 +17,6 @@ Reproduction d'une page produit du site Nintendo avec un design responsive adapt
 Page originale utilisée comme référence :
 https://www.nintendo.com/us/store/products/stardew-valley-switch/
 
-*(ajouter ici des captures d’écran si tu en as)*
-
 # 🎯 Objectif du projet
 
 L'objectif de ce projet était de :
